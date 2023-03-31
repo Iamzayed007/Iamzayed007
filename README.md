@@ -14,6 +14,14 @@ Here are some of the technologies and tools I'm proficient in:
 #### Git
 #### Dev tools
 
+# Get in Touch
+#### Personal Website: [Portfolio](https://zayed007.netlify.app/)
+#### LinkedIn: [Zayed](https://www.linkedin.com/in/iamzayed/)
+#### Email: zayedhasan3.1416@gmail.com
+
+Feel free to reach out to me if you want to collaborate on a project
+
+Thanks for visiting my profile. Have a great day!
 <!--
 **Iamzayed007/Iamzayed007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
