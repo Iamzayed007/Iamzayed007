@@ -5,12 +5,15 @@
 # Skills
 Here are some of the technologies and tools I'm proficient in:
 #### JavaScript 
+#### Next Js
 #### React Js
 #### Redux
 #### Node JS
 #### Express JS
 #### MySQL
 #### MongoDB
+#### Mongoose
+#### Postman
 #### Git
 #### Dev tools
 
