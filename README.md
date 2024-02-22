@@ -7,13 +7,21 @@ Here are some of the technologies and tools I'm proficient in:
 #### JavaScript 
 #### Next Js
 #### React Js
+#### React Native
 #### Redux
 #### Node JS
 #### Express JS
 #### MySQL
 #### MongoDB
 #### Mongoose
+#### Microsoft SQL
+#### REST API
 #### Postman
+#### Cypress
+#### Playwright
+#### Firebase
+#### Netlify
+#### Verel
 #### Git
 #### Dev tools
 
