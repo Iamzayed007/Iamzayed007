@@ -21,7 +21,7 @@ Here are some of the technologies and tools I'm proficient in:
 #### Playwright
 #### Firebase
 #### Netlify
-#### Verel
+#### Vercel
 #### Git
 #### Dev tools
 
