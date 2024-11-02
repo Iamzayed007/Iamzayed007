@@ -4,8 +4,36 @@
 
 # Skills
 Here are some of the technologies and tools I'm proficient in:
+<div style="background-color: #2d2d2d; padding: 15px; border-radius: 8px; color: #ffffff; font-family: monospace; font-size: 14px;">
+
 ```javascript
-console.log("Code example");
+const Zayed = { 
+  code: ["JavaScript", "React", "TypeScript", "Next.js"],
+  askMeAbout: [
+    "Modern Web Development",
+    "Linux Command Line",
+    "Amazon Web Services",
+    "Headless Content Management System",
+    "No Structure Query Language",
+  ],
+  technologies: {
+    backEnd: {
+      js: ["Node (talking back)", "Express"],
+    },
+    frontEnd: {
+      framework: ["React", "Next"],
+      styling: ["TailwindCSS", "ShadCN", "Bootstrap", "ChakraUI"],
+      libraries: ["Three.js", "GSAP", "Driver.js"]
+    },
+    mobile: ["React Native", "Expo"],
+    devOps: ["AWS", "DigitalOcean", "Linux🐧", "EC2"],
+    databases: ["MongoDB", "Graphql"],
+    misc: ["Figma", "GNU/Linux", "Git"],
+  },
+  architecture: ["Dynamic web applications", "Single page applications"],
+  currentFocus: "Learning how to write code with my eyes closed xD",
+};
+
 #### JavaScript 
 #### Next Js
 #### React Js
