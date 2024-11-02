@@ -4,6 +4,8 @@
 
 # Skills
 Here are some of the technologies and tools I'm proficient in:
+```javascript
+console.log("Code example");
 #### JavaScript 
 #### Next Js
 #### React Js
