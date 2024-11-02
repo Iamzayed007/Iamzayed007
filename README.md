@@ -26,7 +26,7 @@ const Zayed = {
   architecture: ["Dynamic web applications", "Single page applications"],
   currentFocus: "Learning how to write code with my eyes closed xD",
 };
-</div> ```
+</div>
 #### JavaScript 
 #### Next Js
 #### React Js
