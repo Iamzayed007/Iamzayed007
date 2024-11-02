@@ -9,13 +9,6 @@ Here are some of the technologies and tools I'm proficient in:
 ```javascript
 const Zayed = { 
   code: ["JavaScript", "React", "TypeScript", "Next.js"],
-  askMeAbout: [
-    "Modern Web Development",
-    "Linux Command Line",
-    "Amazon Web Services",
-    "Headless Content Management System",
-    "No Structure Query Language",
-  ],
   technologies: {
     backEnd: {
       js: ["Node (talking back)", "Express"],
@@ -33,7 +26,7 @@ const Zayed = {
   architecture: ["Dynamic web applications", "Single page applications"],
   currentFocus: "Learning how to write code with my eyes closed xD",
 };
-
+</div> ```
 #### JavaScript 
 #### Next Js
 #### React Js
