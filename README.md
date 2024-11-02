@@ -5,8 +5,7 @@
 # Skills
 Here are some of the technologies and tools I'm proficient in:
 <div style="background-color: #2d2d2d; padding: 15px; border-radius: 8px; color: #ffffff; font-family: monospace; font-size: 14px;">
-
-```javascript
+  <pre><code>
 const Zayed = { 
   code: ["JavaScript", "React", "TypeScript", "Next.js"],
   technologies: {
@@ -26,7 +25,9 @@ const Zayed = {
   architecture: ["Dynamic web applications", "Single page applications"],
   currentFocus: "Learning how to write code with my eyes closed xD",
 };
+  </code></pre>
 </div>
+
 #### JavaScript 
 #### Next Js
 #### React Js
