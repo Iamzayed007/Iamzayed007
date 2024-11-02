@@ -34,7 +34,7 @@ const Zayed = {
 
 
 # Get in Touch
-<-- #### Personal Website: [Portfolio](https://zayed007.netlify.app/)  -->
+<!-- #### Personal Website: [Portfolio](https://zayed007.netlify.app/)   -->
 #### LinkedIn: [Zayed](https://www.linkedin.com/in/iamzayed/)
 #### Email: zayedhasan3.1416@gmail.com
 
